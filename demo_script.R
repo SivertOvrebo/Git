@@ -7,3 +7,5 @@ y <- rnorm(500)
 # Important feature
 
 #Normal development
+
+# an alternative way forward
