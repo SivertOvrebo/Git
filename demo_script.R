@@ -10,4 +10,4 @@ y <- rnorm(500)
 
 # an alternative way forward
 
-#Some more work for github
+#Some more work
