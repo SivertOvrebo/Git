@@ -1,6 +1,6 @@
 Readme file
 
-Edited bby me
+Edited bby me - edited by us
 
 Edit again
 
